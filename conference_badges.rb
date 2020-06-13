@@ -10,3 +10,7 @@ end
 def batch_badge_creator(speakers)
 
 end
+
+def printer(badges, rooms)
+
+end
